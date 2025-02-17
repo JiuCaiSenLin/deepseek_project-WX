@@ -37,7 +37,5 @@ project: deepseek_r1_deploy
 
 项目描述:快速使用魔搭社区部署deepseek蒸馏模型，服务器本地都可以运行，包含前端界面
 Quickly deploy Deepseek distillation model using the Magic Community, which can run locally on the server and includes a front-end interface
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=1692775560/deepseek_project&type=Date)](https://star-history.com/#1692775560/deepseek_project&Date)
-
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwXzZUUTdzV0hYcktrOUU5SklQM0g4TU1TNWtuMmk3eDA0a1JNTg==#1692775560/deepseek_project&Date" frameBorder="0"></iframe>
