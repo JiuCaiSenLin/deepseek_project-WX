@@ -20,7 +20,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # DeepSeek API 配置
-DEEPSEEK_API_URL = "https://api.scnet.cn/api/llm/v1"  
+DEEPSEEK_API_URL = "---------------------"  
 DEEPSEEK_API_KEY = 'sk-Nzg0LTEyMjg1MTMxNzA0LTE3NDA1ODA0MzE5NTM='
 
 # 创建Flask应用
